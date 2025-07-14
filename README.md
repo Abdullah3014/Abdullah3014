@@ -1,3 +1,3 @@
-![Rainforest](https://example.com/your-image-url.jpg)
+!(https://example.com/your-image-url.jpg)
 
 
